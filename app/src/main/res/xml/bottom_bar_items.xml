@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+        <tab
+            id="@+id/tab_home"
+            icon="@drawable/ic_king"
+            title="King Result"
+             />
+
+    <tab
+        id="@+id/tab_new"
+        icon="@drawable/ic_queen"
+        title = "Queen Result"
+        />
+
+        <tab
+            id="@+id/tab_fav"
+            icon="@drawable/ic_setting"
+            title = "Admin Control"
+           />
+
+    </tabs>
